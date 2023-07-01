@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Implement a search feature
+* [x] Altered styling of website
 
 ## Video Walkthrough
 

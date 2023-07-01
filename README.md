@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Implement a search feature
+* [x] Implement a search feature that filters through both names and descriptions of games.
 * [x] Altered styling of website
 
 ## Video Walkthrough

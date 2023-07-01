@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding Hub*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jawad Chowdhury**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding Hub** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -33,12 +33,14 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+This was really fun. It took a while for me to do since I am a bit rusty, and had to go over documentation a good bit, but I learned how to properly use arrow functions, use the ternary operator, use reduce() and filter(), and also played around with event listeners.
 
 Describe any challenges encountered while building the app.
+I "sloppily" taught myself Javascript a few years back, and so evidently I think I'm really weak when it comes to programming with Javascript. A lot of the conceptualization was difficult for me at times. The search feature was something in specific that I found hard to impement, but writing pseudo code, and reading documentation along with watching videos really helped with this process a lot.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jawad Chowdhury]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

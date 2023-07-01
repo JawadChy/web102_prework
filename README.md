@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 This was really fun. It took a while for me to do since I am a bit rusty, and had to go over documentation a good bit, but I learned how to properly use arrow functions, use the ternary operator, use reduce() and filter(), and also played around with event listeners.
 
-Describe any challenges encountered while building the app.
+Challenges:
 I "sloppily" taught myself Javascript a few years back, and so evidently I think I'm really weak when it comes to programming with Javascript. A lot of the conceptualization was difficult for me at times. The search feature was something in specific that I found hard to impement, but writing pseudo code, and reading documentation along with watching videos really helped with this process a lot.
 
 ## License
